@@ -14,9 +14,9 @@ namespace OObjetos
 
         }
 
-        struct Customer
+        class Customer
         {
-            public string Name;
+            string name;
         }
     }
 }
