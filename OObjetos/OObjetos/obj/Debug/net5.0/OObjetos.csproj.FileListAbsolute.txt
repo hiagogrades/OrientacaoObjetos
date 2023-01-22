@@ -1,0 +1,16 @@
+D:\Dev\OrientacaoObjetos\OObjetos\OObjetos\obj\Debug\net5.0\OObjetos.csproj.AssemblyReference.cache
+D:\Dev\OrientacaoObjetos\OObjetos\OObjetos\obj\Debug\net5.0\OObjetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\OrientacaoObjetos\OObjetos\OObjetos\obj\Debug\net5.0\OObjetos.AssemblyInfoInputs.cache
+D:\Dev\OrientacaoObjetos\OObjetos\OObjetos\obj\Debug\net5.0\OObjetos.AssemblyInfo.cs
+D:\Dev\OrientacaoObjetos\OObjetos\OObjetos\obj\Debug\net5.0\OObjetos.csproj.CoreCompileInputs.cache
+D:\Dev\OrientacaoObjetos\OObjetos\OObjetos\bin\Debug\net5.0\OObjetos.exe
+D:\Dev\OrientacaoObjetos\OObjetos\OObjetos\bin\Debug\net5.0\OObjetos.deps.json
+D:\Dev\OrientacaoObjetos\OObjetos\OObjetos\bin\Debug\net5.0\OObjetos.runtimeconfig.json
+D:\Dev\OrientacaoObjetos\OObjetos\OObjetos\bin\Debug\net5.0\OObjetos.runtimeconfig.dev.json
+D:\Dev\OrientacaoObjetos\OObjetos\OObjetos\bin\Debug\net5.0\OObjetos.dll
+D:\Dev\OrientacaoObjetos\OObjetos\OObjetos\bin\Debug\net5.0\OObjetos.pdb
+D:\Dev\OrientacaoObjetos\OObjetos\OObjetos\obj\Debug\net5.0\OObjetos.dll
+D:\Dev\OrientacaoObjetos\OObjetos\OObjetos\obj\Debug\net5.0\refint\OObjetos.dll
+D:\Dev\OrientacaoObjetos\OObjetos\OObjetos\obj\Debug\net5.0\OObjetos.pdb
+D:\Dev\OrientacaoObjetos\OObjetos\OObjetos\obj\Debug\net5.0\OObjetos.genruntimeconfig.cache
+D:\Dev\OrientacaoObjetos\OObjetos\OObjetos\obj\Debug\net5.0\ref\OObjetos.dll

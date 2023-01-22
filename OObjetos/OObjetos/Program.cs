@@ -8,28 +8,50 @@ namespace OObjetos
         {
             Console.Clear();
 
-            var customer = new Customer();
-            customer.Name = "Teste";
-
-
+            //Conceito de Herança
+            //Instanciando os objetos da classe PaymentBoleto
+            var paymentTicket = new PaymentTicket();
+            paymentTicket.Pagar();
+            paymentTicket.Venciemnto = DateTime.Now;
+            paymentTicket.NumberTicket = "1355641335435";
+            
+            //Instanciando os objetos da classe PaymentCartaoCredito
+            var paymentCardCredit = new PaymentCardCredit();
+            paymentCardCredit.NumberCardCredit = "654564654545645";
         }
 
         class Payment
         {
             //Propriedades
-            DateTime Venciemnto;
+            public DateTime Venciemnto;
 
             //Cria um método pagar
-            void Pagar()
+            public void Pagar()
             {
-                ConsultarSaldoDoCartao("1235464154561354");
-            }
+                //Abstração
+                //ConsultarSaldoDoCartao("1235464154561354");
 
-            //Utiliza a abstração para somente consultar o saldo de pagamento através do método pagar
-            private void ConsultarSaldoDoCartao(string numero)
-            {
+                //Herança
 
             }
+
+            ////Abstração
+            ////Utiliza a abstração para somente consultar o saldo de pagamento através do método pagar
+            //private void ConsultarSaldoDoCartao(string numero)
+            //{
+
+            //}
+        }
+
+        //A Classe PaymentBoleto está herdando de Payment
+        class PaymentTicket : Payment
+        {
+            public string NumberTicket;
+        }
+
+        class PaymentCardCredit : Payment
+        {
+            public string NumberCardCredit;
         }
     }
 }
