@@ -1,0 +1,16 @@
+C:\Dev\OrientacaoObjetos\OOModAcesso\bin\Debug\net5.0\OOModAcesso.exe
+C:\Dev\OrientacaoObjetos\OOModAcesso\bin\Debug\net5.0\OOModAcesso.deps.json
+C:\Dev\OrientacaoObjetos\OOModAcesso\bin\Debug\net5.0\OOModAcesso.runtimeconfig.json
+C:\Dev\OrientacaoObjetos\OOModAcesso\bin\Debug\net5.0\OOModAcesso.runtimeconfig.dev.json
+C:\Dev\OrientacaoObjetos\OOModAcesso\bin\Debug\net5.0\OOModAcesso.dll
+C:\Dev\OrientacaoObjetos\OOModAcesso\bin\Debug\net5.0\OOModAcesso.pdb
+C:\Dev\OrientacaoObjetos\OOModAcesso\obj\Debug\net5.0\OOModAcesso.csproj.AssemblyReference.cache
+C:\Dev\OrientacaoObjetos\OOModAcesso\obj\Debug\net5.0\OOModAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\OrientacaoObjetos\OOModAcesso\obj\Debug\net5.0\OOModAcesso.AssemblyInfoInputs.cache
+C:\Dev\OrientacaoObjetos\OOModAcesso\obj\Debug\net5.0\OOModAcesso.AssemblyInfo.cs
+C:\Dev\OrientacaoObjetos\OOModAcesso\obj\Debug\net5.0\OOModAcesso.csproj.CoreCompileInputs.cache
+C:\Dev\OrientacaoObjetos\OOModAcesso\obj\Debug\net5.0\OOModAcesso.dll
+C:\Dev\OrientacaoObjetos\OOModAcesso\obj\Debug\net5.0\refint\OOModAcesso.dll
+C:\Dev\OrientacaoObjetos\OOModAcesso\obj\Debug\net5.0\OOModAcesso.pdb
+C:\Dev\OrientacaoObjetos\OOModAcesso\obj\Debug\net5.0\OOModAcesso.genruntimeconfig.cache
+C:\Dev\OrientacaoObjetos\OOModAcesso\obj\Debug\net5.0\ref\OOModAcesso.dll

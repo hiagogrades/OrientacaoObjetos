@@ -9,35 +9,36 @@ namespace OOModAcesso
         static void Main(string[] args)
         {
             var payment = new Payment();
-
-            
-            
+            payment.DataPagamento = DateTime.Now;
         }
     }
 
     public class Payment
     {
-        protected DateTime Vencimento;
-        
+        //Atalhos do .Net
+        //propg
+        public DateTime Teste { get; private set; }
+        //prop
+        public DateTime Vencimento { get; set; }
+
+        //propfull
+        private DateTime _dataPagamento;
+        public DateTime DataPagamento
+        {
+            get {
+                Console.WriteLine("Lendo o valor.");
+                return _dataPagamento;
+                }
+            set {
+                Console.WriteLine("Atribuido um valor.");
+                _dataPagamento = value; 
+            }
+        }
+
+
         void Pagar()
         {
 
-        }
-    }
-
-    class PaymentTicket : Payment
-    {
-        public DateTime Vencimento;
-
-        void Pagar()
-        {
-
-        }
-
-        void Test()
-        {
-            //Utilizando o base para acessar as propriedades da classe 
-            base.Vencimento = DateTime.Now;
         }
     }
 }
