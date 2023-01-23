@@ -19,6 +19,7 @@ namespace OObjetos
             var paymentCardCredit = new PaymentCardCredit();
             paymentCardCredit.NumberCardCredit = "654564654545645";
 
+            //Sobrescrevendo o método Payment
             var payment = new Payment();
             payment.ToString();
         }
