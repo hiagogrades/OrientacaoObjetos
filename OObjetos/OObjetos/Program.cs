@@ -12,27 +12,36 @@ namespace OObjetos
             //Instanciando os objetos da classe PaymentBoleto
             var paymentTicket = new PaymentTicket();
             paymentTicket.Pagar();
-            paymentTicket.Venciemnto = DateTime.Now;
+            paymentTicket.Vencimento = DateTime.Now;
             paymentTicket.NumberTicket = "1355641335435";
             
             //Instanciando os objetos da classe PaymentCartaoCredito
             var paymentCardCredit = new PaymentCardCredit();
             paymentCardCredit.NumberCardCredit = "654564654545645";
+
+            var payment = new Payment();
+            payment.ToString();
         }
 
         class Payment
         {
             //Propriedades
-            public DateTime Venciemnto;
+            public DateTime Vencimento;
 
             //Cria um método pagar
-            public void Pagar()
+            //Utiliza virtual para sobrescrever o método Pagar
+            public virtual void Pagar()
             {
                 //Abstração
                 //ConsultarSaldoDoCartao("1235464154561354");
 
                 //Herança
 
+            }
+
+            public override string ToString()
+            {
+                return Vencimento.ToString("dd/MM/yy"); 
             }
 
             ////Abstração
@@ -47,11 +56,17 @@ namespace OObjetos
         class PaymentTicket : Payment
         {
             public string NumberTicket;
+
+            //Sobrescrevendo o método pagar
+            public override void Pagar() { }
         }
 
         class PaymentCardCredit : Payment
         {
             public string NumberCardCredit;
+
+            //Sobrescrevendo o método pagar
+            public override void Pagar() { }
         }
     }
 }
