@@ -19,6 +19,7 @@ namespace OObjetos
             var paymentCardCredit = new PaymentCardCredit();
             paymentCardCredit.NumberCardCredit = "654564654545645";
 
+            //Polimorfismo
             //Sobrescrevendo o método Payment
             var payment = new Payment();
             payment.ToString();
@@ -58,6 +59,7 @@ namespace OObjetos
         {
             public string NumberTicket;
 
+            //Polimorfismo
             //Sobrescrevendo o método pagar
             public override void Pagar() { }
         }
@@ -66,6 +68,7 @@ namespace OObjetos
         {
             public string NumberCardCredit;
 
+            //Polimorfismo
             //Sobrescrevendo o método pagar
             public override void Pagar() { }
         }
