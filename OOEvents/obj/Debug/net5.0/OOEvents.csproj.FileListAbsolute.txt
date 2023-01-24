@@ -1,0 +1,16 @@
+C:\Dev\OrientacaoObjetos\OOEvents\bin\Debug\net5.0\OOEvents.exe
+C:\Dev\OrientacaoObjetos\OOEvents\bin\Debug\net5.0\OOEvents.deps.json
+C:\Dev\OrientacaoObjetos\OOEvents\bin\Debug\net5.0\OOEvents.runtimeconfig.json
+C:\Dev\OrientacaoObjetos\OOEvents\bin\Debug\net5.0\OOEvents.runtimeconfig.dev.json
+C:\Dev\OrientacaoObjetos\OOEvents\bin\Debug\net5.0\OOEvents.dll
+C:\Dev\OrientacaoObjetos\OOEvents\bin\Debug\net5.0\OOEvents.pdb
+C:\Dev\OrientacaoObjetos\OOEvents\obj\Debug\net5.0\OOEvents.csproj.AssemblyReference.cache
+C:\Dev\OrientacaoObjetos\OOEvents\obj\Debug\net5.0\OOEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\OrientacaoObjetos\OOEvents\obj\Debug\net5.0\OOEvents.AssemblyInfoInputs.cache
+C:\Dev\OrientacaoObjetos\OOEvents\obj\Debug\net5.0\OOEvents.AssemblyInfo.cs
+C:\Dev\OrientacaoObjetos\OOEvents\obj\Debug\net5.0\OOEvents.csproj.CoreCompileInputs.cache
+C:\Dev\OrientacaoObjetos\OOEvents\obj\Debug\net5.0\OOEvents.dll
+C:\Dev\OrientacaoObjetos\OOEvents\obj\Debug\net5.0\refint\OOEvents.dll
+C:\Dev\OrientacaoObjetos\OOEvents\obj\Debug\net5.0\OOEvents.pdb
+C:\Dev\OrientacaoObjetos\OOEvents\obj\Debug\net5.0\OOEvents.genruntimeconfig.cache
+C:\Dev\OrientacaoObjetos\OOEvents\obj\Debug\net5.0\ref\OOEvents.dll
