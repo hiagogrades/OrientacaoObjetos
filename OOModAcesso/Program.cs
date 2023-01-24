@@ -28,17 +28,28 @@ namespace OOModAcesso
             get {
                 Console.WriteLine("Lendo o valor.");
                 return _dataPagamento;
-                }
+            }
             set {
                 Console.WriteLine("Atribuido um valor.");
-                _dataPagamento = value; 
+                _dataPagamento = value;
             }
         }
 
+        //Utilizando métodos com mesmo nome, com assinaturas diferentes
+        public void Pagar(string numero)
+        {
 
-        void Pagar()
+        }
+
+        //Sobrecarga do método Pagar
+        public void Pagar(string numero, DateTime vencimento, bool pagarAposVencimento = false)
         {
 
         }
     }
+    public class Adress
+    {
+        string ZipCode;
+    }
 }
+
