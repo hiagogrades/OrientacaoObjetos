@@ -1,0 +1,16 @@
+D:\Dev\OrientacaoObjetos\OOUsingDispose\OOUsingDispose\bin\Debug\net5.0\OOUsingDispose.exe
+D:\Dev\OrientacaoObjetos\OOUsingDispose\OOUsingDispose\bin\Debug\net5.0\OOUsingDispose.deps.json
+D:\Dev\OrientacaoObjetos\OOUsingDispose\OOUsingDispose\bin\Debug\net5.0\OOUsingDispose.runtimeconfig.json
+D:\Dev\OrientacaoObjetos\OOUsingDispose\OOUsingDispose\bin\Debug\net5.0\OOUsingDispose.runtimeconfig.dev.json
+D:\Dev\OrientacaoObjetos\OOUsingDispose\OOUsingDispose\bin\Debug\net5.0\OOUsingDispose.dll
+D:\Dev\OrientacaoObjetos\OOUsingDispose\OOUsingDispose\bin\Debug\net5.0\OOUsingDispose.pdb
+D:\Dev\OrientacaoObjetos\OOUsingDispose\OOUsingDispose\obj\Debug\net5.0\OOUsingDispose.csproj.AssemblyReference.cache
+D:\Dev\OrientacaoObjetos\OOUsingDispose\OOUsingDispose\obj\Debug\net5.0\OOUsingDispose.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\OrientacaoObjetos\OOUsingDispose\OOUsingDispose\obj\Debug\net5.0\OOUsingDispose.AssemblyInfoInputs.cache
+D:\Dev\OrientacaoObjetos\OOUsingDispose\OOUsingDispose\obj\Debug\net5.0\OOUsingDispose.AssemblyInfo.cs
+D:\Dev\OrientacaoObjetos\OOUsingDispose\OOUsingDispose\obj\Debug\net5.0\OOUsingDispose.csproj.CoreCompileInputs.cache
+D:\Dev\OrientacaoObjetos\OOUsingDispose\OOUsingDispose\obj\Debug\net5.0\OOUsingDispose.dll
+D:\Dev\OrientacaoObjetos\OOUsingDispose\OOUsingDispose\obj\Debug\net5.0\refint\OOUsingDispose.dll
+D:\Dev\OrientacaoObjetos\OOUsingDispose\OOUsingDispose\obj\Debug\net5.0\OOUsingDispose.pdb
+D:\Dev\OrientacaoObjetos\OOUsingDispose\OOUsingDispose\obj\Debug\net5.0\OOUsingDispose.genruntimeconfig.cache
+D:\Dev\OrientacaoObjetos\OOUsingDispose\OOUsingDispose\obj\Debug\net5.0\ref\OOUsingDispose.dll
