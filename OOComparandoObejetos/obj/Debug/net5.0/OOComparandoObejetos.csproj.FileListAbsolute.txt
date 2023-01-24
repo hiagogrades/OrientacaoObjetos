@@ -1,0 +1,16 @@
+C:\Dev\OrientacaoObjetos\OOComparandoObejetos\bin\Debug\net5.0\OOComparandoObejetos.exe
+C:\Dev\OrientacaoObjetos\OOComparandoObejetos\bin\Debug\net5.0\OOComparandoObejetos.deps.json
+C:\Dev\OrientacaoObjetos\OOComparandoObejetos\bin\Debug\net5.0\OOComparandoObejetos.runtimeconfig.json
+C:\Dev\OrientacaoObjetos\OOComparandoObejetos\bin\Debug\net5.0\OOComparandoObejetos.runtimeconfig.dev.json
+C:\Dev\OrientacaoObjetos\OOComparandoObejetos\bin\Debug\net5.0\OOComparandoObejetos.dll
+C:\Dev\OrientacaoObjetos\OOComparandoObejetos\bin\Debug\net5.0\OOComparandoObejetos.pdb
+C:\Dev\OrientacaoObjetos\OOComparandoObejetos\obj\Debug\net5.0\OOComparandoObejetos.csproj.AssemblyReference.cache
+C:\Dev\OrientacaoObjetos\OOComparandoObejetos\obj\Debug\net5.0\OOComparandoObejetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\OrientacaoObjetos\OOComparandoObejetos\obj\Debug\net5.0\OOComparandoObejetos.AssemblyInfoInputs.cache
+C:\Dev\OrientacaoObjetos\OOComparandoObejetos\obj\Debug\net5.0\OOComparandoObejetos.AssemblyInfo.cs
+C:\Dev\OrientacaoObjetos\OOComparandoObejetos\obj\Debug\net5.0\OOComparandoObejetos.csproj.CoreCompileInputs.cache
+C:\Dev\OrientacaoObjetos\OOComparandoObejetos\obj\Debug\net5.0\OOComparandoObejetos.dll
+C:\Dev\OrientacaoObjetos\OOComparandoObejetos\obj\Debug\net5.0\refint\OOComparandoObejetos.dll
+C:\Dev\OrientacaoObjetos\OOComparandoObejetos\obj\Debug\net5.0\OOComparandoObejetos.pdb
+C:\Dev\OrientacaoObjetos\OOComparandoObejetos\obj\Debug\net5.0\OOComparandoObejetos.genruntimeconfig.cache
+C:\Dev\OrientacaoObjetos\OOComparandoObejetos\obj\Debug\net5.0\ref\OOComparandoObejetos.dll
