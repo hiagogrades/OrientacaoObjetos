@@ -7,7 +7,9 @@ namespace OOGenerics
     {
         static void Main(string[] args)
         {
-           
+            var context = new DataContext<Person>();
+            var person = new Person();
+            context.Save(person); //Salvando uma pessoa
         }
     }
 
@@ -19,9 +21,7 @@ namespace OOGenerics
         //Método para salvar as informações
         public void Save(T entity)
         {
-            var context = new DataContext<Person>();
-            var person = new Person();
-            context.Save(person); //Salvando uma pessoa
+            
 
         }
     }
