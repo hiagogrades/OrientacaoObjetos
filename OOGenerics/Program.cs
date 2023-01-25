@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace OOGenerics
 {
@@ -6,7 +7,37 @@ namespace OOGenerics
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
         }
     }
+
+    //Para dizer que uma classe é genérica em C#, utilize os sinais (<>);
+    //Como por exemplo <TipoDaClasse>
+    //DataContext<T>
+    public class DataContext<T>
+    {
+        //Método para salvar as informações
+        public void Save(T entity)
+        {
+            var context = new DataContext<Person>();
+            var person = new Person();
+            context.Save(person); //Salvando uma pessoa
+
+        }
+    }
+
+    public class Person
+    {
+        
+    }
+
+    public class Payment 
+    {
+        
+    }
+    public class Subscription
+    {
+
+    }
+
 }
