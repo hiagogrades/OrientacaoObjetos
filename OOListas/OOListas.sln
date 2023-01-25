@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOListas", "OOListas.csproj", "{F55345C4-8283-4F3F-AA48-F986532F6B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F55345C4-8283-4F3F-AA48-F986532F6B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55345C4-8283-4F3F-AA48-F986532F6B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55345C4-8283-4F3F-AA48-F986532F6B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55345C4-8283-4F3F-AA48-F986532F6B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3E85B5C-FF0A-4D90-B207-BF6E076F8D8D}
+	EndGlobalSection
+EndGlobal

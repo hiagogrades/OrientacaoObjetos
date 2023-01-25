@@ -1,0 +1,16 @@
+C:\Dev\OrientacaoObjetos\OOListas\bin\Debug\net5.0\OOListas.exe
+C:\Dev\OrientacaoObjetos\OOListas\bin\Debug\net5.0\OOListas.deps.json
+C:\Dev\OrientacaoObjetos\OOListas\bin\Debug\net5.0\OOListas.runtimeconfig.json
+C:\Dev\OrientacaoObjetos\OOListas\bin\Debug\net5.0\OOListas.runtimeconfig.dev.json
+C:\Dev\OrientacaoObjetos\OOListas\bin\Debug\net5.0\OOListas.dll
+C:\Dev\OrientacaoObjetos\OOListas\bin\Debug\net5.0\OOListas.pdb
+C:\Dev\OrientacaoObjetos\OOListas\obj\Debug\net5.0\OOListas.csproj.AssemblyReference.cache
+C:\Dev\OrientacaoObjetos\OOListas\obj\Debug\net5.0\OOListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\OrientacaoObjetos\OOListas\obj\Debug\net5.0\OOListas.AssemblyInfoInputs.cache
+C:\Dev\OrientacaoObjetos\OOListas\obj\Debug\net5.0\OOListas.AssemblyInfo.cs
+C:\Dev\OrientacaoObjetos\OOListas\obj\Debug\net5.0\OOListas.csproj.CoreCompileInputs.cache
+C:\Dev\OrientacaoObjetos\OOListas\obj\Debug\net5.0\OOListas.dll
+C:\Dev\OrientacaoObjetos\OOListas\obj\Debug\net5.0\refint\OOListas.dll
+C:\Dev\OrientacaoObjetos\OOListas\obj\Debug\net5.0\OOListas.pdb
+C:\Dev\OrientacaoObjetos\OOListas\obj\Debug\net5.0\OOListas.genruntimeconfig.cache
+C:\Dev\OrientacaoObjetos\OOListas\obj\Debug\net5.0\ref\OOListas.dll
