@@ -6,14 +6,17 @@ using System.Threading.Tasks;
 
 namespace Balta.ContentContext
 {
-    public class Content
+    public abstract class Content
     {
-        public int Id { get; set; }
+        public Content()
+        {
+            //Centraliza criação do Id na classe Content
+            //Fixa em um único ponto a possibilidade de errar 
+            Id = Guid.NewGuid();
+        }
+
+        public Guid Id { get; set; }
         public string Title { get; set; }
         public string Url { get; set; }
-        public Content() 
-        {
-            
-        }
     }
 }
