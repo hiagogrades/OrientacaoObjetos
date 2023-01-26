@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace Balta.ContentContext
 {
-    public class Article : Content
+    //Cria uma classe Aulas
+    public class Lecture
     {
-        //public Article() 
-        //{
+        public int Ordem { get; set; }
+        public string Title { get; set; }
 
-        //}
-        
     }
 }

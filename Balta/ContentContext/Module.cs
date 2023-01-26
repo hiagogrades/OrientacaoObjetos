@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace Balta.ContentContext
 {
-    public class Article : Content
+    public class Module
     {
-        //public Article() 
-        //{
-
-        //}
-        
+        public int Order { get; set; }
+        public string Title { get; set; }
     }
 }
