@@ -17,7 +17,7 @@ namespace Balta.ContentContext
         }
         public string Tag { get; set; }
         public IList<Module> Modules { get; set; } // Cria uma lista da classe Module
-        //public IList<Lecture> Lectures { get; set; } // Cria uma lista da classe Lectures
+        public IList<Lecture> Lectures { get; set; } // Cria uma lista da classe Lectures
 
         //Define a duração em minutos da aula
         public int DurationInMinutes { get; set; }
