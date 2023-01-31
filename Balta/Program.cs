@@ -1,5 +1,6 @@
 ﻿using Balta.ContentContext;
 using System;
+using System.Collections.Generic;
 
 namespace Balta
 {
@@ -7,16 +8,21 @@ namespace Balta
     {
         static void Main(string[] args)
         {
-            //Instancia o obejeto Course
-            var course = new Course();
-            //Atribui o nível iniciante (Beginner), para o curso.
-            course.Level = ContentContext.Enums.EContentLevel.Beginner;
+            //Criando uma nova lista de artigos
+            var articles = new List<Article>();
 
-            foreach(var item in course.Modules)
+            //Adiciona um novo artigo 
+            articles.Add(new Article("Artigo Sobre OOP", "orientacao-objetos"));
+            articles.Add(new Article("Artigo Sobre C#", "CSharp"));
+            articles.Add(new Article("Artigo Sobre .Net", "DotNet"));
+
+            //Imprime cada item da lista no console
+            foreach (var article in articles)
             {
-
+                Console.WriteLine(article.Id);
+                Console.WriteLine(article.Title);
+                Console.WriteLine(article.Url);
             }
-            
         }
     }
 }

@@ -9,7 +9,7 @@ namespace Balta.ContentContext
 {
     public class Course : Content
     {
-        public Course()
+        public Course(string title, string url) : base(title, url)
         {
             //Inicializa a classe Module e Lecture
             Modules = new List<Module>();
