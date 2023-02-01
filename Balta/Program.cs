@@ -46,9 +46,9 @@ namespace Balta
             //Cria uma nova carreira
             var careerDotNet = new Career("Especialista .NET", "especialista-dotnet");
             //Adiciona um novo item para carreira
-            var careerItem2 = new CareerItem(2, "Aprenda .OOP", "", null);
-            var careerItem = new CareerItem(1, "Comece por aqui", "", null);
-            var careerItem3 = new CareerItem(3, "Aprenda .Net", "", null);
+            var careerItem2 = new CareerItem(2, "Aprenda .OOP", "", courseOOP);
+            var careerItem = new CareerItem(1, "Comece por aqui", "", courseCsharp);
+            var careerItem3 = new CareerItem(3, "Aprenda .Net", "", courseAspNet);
 
             //Adiciona um item para a carreira 
             careerDotNet.Items.Add(careerItem2);
@@ -69,6 +69,8 @@ namespace Balta
                 {
                     //Imprime os itens da carreira
                     Console.WriteLine($"{item.Order} - {item.Title}");
+                    Console.WriteLine(item.Course.Title);
+                    Console.WriteLine(item.Course.Level);
                 }
             }
         }
