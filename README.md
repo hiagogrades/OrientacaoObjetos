@@ -48,3 +48,8 @@ Refatora o código
 
 <h4>Regra de negócio</h4>
 - Implementa uma nova regra de negócio na classe Course, verificando se curso é nulo.
+
+<h4>Contexto de notificações</h4>
+- Cria uma pasta NotificationContext, para centralizar todas as notificações no context;
+- Cria uma classe Notification;
+- 
